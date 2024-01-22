@@ -3,9 +3,10 @@
 Я Python/Golang разработчик
 ----------------
 ### Обо мне:
-<!--* :male_detective: At this moment working as a purchasing analyst and I am currently looking for a job as a *Junior/Junior+* Python Developer
-* :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: Docker + Kubernetes, aiogramm3, React
-* :seedling: Regularly practicing, studying and growing up
+* В данный момент работаю инженер-механиком в крупном ретейлере моей страны
+* Активно изучаю **Python** на платформе **GeekBrains**, дополнительно прохожу курсы на **Stepik** и читаю книги по теме
+* Параллельно с этим углубляюсь в серверную разработку (*Docker*, *Kubernetes*, *React*, *RabbitMQ* и т.д.) 
+* Веду здоровый образ жизни, много читаю и учусь
 -->
 * 🌍  Проживаю в **Республике Беларусь**
 
