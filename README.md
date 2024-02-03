@@ -28,4 +28,4 @@
 
 <b>Codewars</b>
 
-
+[![Codewars](https://pogudo.pythonanywhere.com/pogudo/)](https://github.com/pogudo-e/pillow_cw)
