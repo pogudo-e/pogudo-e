@@ -22,10 +22,13 @@
 
 ### Моя статистика
 
+<b>Codewars</b>
+
+![Codewars](https://c686b864-254a-48ad-adda-751b97b45c0c-00-241mot1h3o2eg.janeway.replit.dev/?user_name=Pogudo&theme=light)
+
 <b>GitHub</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pogudo-e&theme=vue&card_width=497&fire=EB5454)](https://git.io/streak-stats)
 
-<b>Codewars</b>
 
-![Codewars](https://c686b864-254a-48ad-adda-751b97b45c0c-00-241mot1h3o2eg.janeway.replit.dev/?user_name=Pogudo&theme=light)
+
